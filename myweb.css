@@ -71,18 +71,3 @@ body {
    }
 }
 
-@media(max-width:700px){
-    #real{
-
-        margin-left: 5%;
-        margin-right: 5%;
-       
-    }
-    .link-left{
-    font-size:18px ;
-    height: 30px;
-   }
-   .text{
-    font-size: 15px;
-   }
-}
